@@ -227,7 +227,12 @@ GROUP BY 1;
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
-##Meharpreet Kaur
+## Meharpreet Kaur
+Linkedin profile- www.linkedin.com/in/meharpreet-kaur-59bb75356
+Email- manmeetkaur2614@gmail.com 
+       or
+       meharpreetkaur2614@gmail.com
 
+THANK YOU
 
 
